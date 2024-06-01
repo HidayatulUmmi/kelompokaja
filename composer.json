@@ -1,0 +1,19 @@
+{
+    "name": "kelompokaja/labhello",
+    "description": "Tugas membuat project library sederhana",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Hidayatul Ummi",
+            "email": "hidayatulummi82@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "kelompokaja\\labhello\\": "src/"
+        }
+    },
+    "require": {}
+}
